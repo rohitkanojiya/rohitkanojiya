@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/rocky737"><img src="./devcard.png" height="600" alt="Rohit Kanojiya's Dev Card"/></a>
+<a href="https://app.daily.dev/rocky737"><img src="./devcard.png" height="400" alt="Rohit Kanojiya's Dev Card"/></a>
